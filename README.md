@@ -7,8 +7,7 @@ The model takes input a random noise vector
 and outputs the image of a fake human face.
 
 # Dataset
-The CelebA dataset was used for training the
-model.
+CelebA dataset
 
 # Fake human faces generated
 
